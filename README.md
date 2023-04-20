@@ -1,2 +1,4 @@
 # Vicky John's Notes
-###### H6 - smallest header
+## Summary
+
+This repo consists all of [Vicky](https://github.com/VickyDJohn)'s notes during the Lighthouse Labs Flex Program
